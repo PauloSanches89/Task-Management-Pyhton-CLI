@@ -1,0 +1,18 @@
+User Overview
+__________________________________________________
+Total Number of Users: 10
+Total Number of tasks: 5
+
+User Task Data:
+Username      Tasks    % Assigned    % Complete    % Incomplete    % Overdue
+----------  -------  ------------  ------------  --------------  -----------
+admin             4            80            25              75           25
+bob               1            20             0             100          100
+boo               0             0           100               0            0
+new               0             0           100               0            0
+pew               0             0           100               0            0
+popeye            0             0           100               0            0
+ams               0             0           100               0            0
+geoff             0             0           100               0            0
+newuser2          0             0           100               0            0
+bre               0             0           100               0            0

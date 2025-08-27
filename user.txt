@@ -1,0 +1,10 @@
+admin, adm1n
+bob, job
+boo, joo
+new, user
+pew, wep
+popeye, olive
+ams, ams2
+geoff, beff
+newuser2, pope
+bre, nbv
